@@ -230,7 +230,7 @@ Development
 
 You can also run each module on its own while testing::
 
-    python modules/cmds/vol_imageinfo_module.py run image_samples/conficker.img WinXPSP3x86
+    python modules/cmds/vol_imageinfo_module.py image_samples/conficker.img WinXPSP3x86
 
     Python version: 2.7.10 (default, Oct 23 2015, 19:19:21)
     [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)]
